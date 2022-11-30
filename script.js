@@ -1,59 +1,93 @@
 const data = [
   {
-    name: 'RANDOM WORDS GENERATOR',
+    name: 'Random Word Generator',
     description:
-      'A movie database website that displays all the information about a show including the discription and the rating of the show. You can search for a show, like and also comment on any of your favourite show. This project consumed TVmaze api.',
-    imageUrl: 'images/a.png',
-    tecnologies: ['HTML', 'css', 'JavScript'],
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged',
+    imageUrl: 'images/projects/7.png',
+    tecnologies: ['JAVASCRIPT', 'HTML', 'CSS'],
     ProjectUrls: {
       seeLive: 'https://muneef-nk.github.io/Random-Word-Generator/',
       seeSource: 'https://github.com/Muneef-Nk/Random-Word-Generator',
     },
   },
   {
-    name: 'To-do App',
+    name: 'BG Color Changer',
     description:
-      'This project lets you create a to-do list for activities you need to do for some time. Each activity has a box that can be checked when completed',
-    imageUrl: './images/projects/To-do-app.png',
-    tecnologies: ['HTML', 'css', 'JavScript'],
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged',
+    imageUrl: './images/projects/1.png',
+    tecnologies: ['JAVASCRIPT', 'HTML', 'CSS'],
     ProjectUrls: {
-      seeLive: 'https://tylher.github.io/portfolio-site-skeleton/',
-      seeSource: 'https://github.com/tylher/To-do-List',
+      seeLive: 'https://muneef-nk.github.io/Bg-Color-Change/',
+      seeSource: 'https://github.com/Muneef-Nk/Bg-Color-Change',
     },
   },
   {
-    name: 'Space travelers Hub',
+    name: 'Calculator',
     description:
-      'space-travelers-hub is web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.',
-    imageUrl: 'images/projects/space-rocket.png',
-    tecnologies: ['React', 'Redux', 'JSX', 'css'],
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged',
+    imageUrl: 'images/projects/2.png',
+    tecnologies: ['JAVASCRIPT', 'HTML', 'CSS'],
     ProjectUrls: {
-      seeLive: 'https://627d39b107b3bf0f75556474--dazzling-travesseiro-1e9711.netlify.app/',
-      seeSource: 'https://github.com/IfzaRasool/space-travelers-hub',
+      seeLive: 'https://muneef-nk.github.io/calculator/',
+      seeSource: 'https://github.com/Muneef-Nk/calculator',
     },
   },
   {
-    name: 'BookStore App',
+    name: 'validation',
     description:
-      'The Bookstore is a book register website that stores books using the title and author. It is an MVP version of it that allows you to: Display a list of books, Add a book, Remove a selected book',
-    imageUrl: 'images/projects/Bookstore.png',
-    tecnologies: ['React', 'Redux', 'css', 'JavScript'],
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged',
+    imageUrl: 'images/projects/3.png',
+    tecnologies: ['JAVASCRIPT', 'HTML', 'CSS'],
     ProjectUrls: {
-      seeLive: 'https://dev--tylher-bookstore.netlify.app/',
-      seeSource: 'https://github.com/tylher/bookstore-react',
+      seeLive: 'https://muneef-nk.github.io/Validation-/',
+      seeSource: 'https://github.com/Muneef-Nk/Validation-',
     },
   },
   {
-    name: 'Covid-19 Stat App',
+    name: 'Login Page',
     description:
-      'This app is a react app that consumes a covid-19 stat API and manipulates the data to display the vaccination metrics country based on continent and country category',
-    imageUrl: 'images/projects/covid19-vaccination.jpg',
-    tecnologies: ['React', 'CSS', 'JavScript', 'Redux'],
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged',
+    imageUrl: 'images/projects/4.png',
+    tecnologies: ['JAVASCRIPT', 'HTML', 'CSS'],
     ProjectUrls: {
-      seeLive: 'https://covid-19-stat-web-app.netlify.app/',
-      seeSource: 'https://github.com/tylher/covid-19-stat-web-app',
+      seeLive: 'https://muneef-nk.github.io/Login-Page/',
+      seeSource:'https://github.com/Muneef-Nk/Login-Page',
     },
   },
+  {
+    name: 'Simple TODO List',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged',
+    imageUrl: 'images/projects/5.png',
+    tecnologies: ['JAVASCRIPT', 'HTML', 'CSS'],
+    ProjectUrls: {
+      seeLive: 'https://muneef-nk.github.io/ToDo/',
+      seeSource:'https://github.com/Muneef-Nk/ToDo',
+    },
+  },
+  {
+    name: 'Loading-spinner',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged',
+    imageUrl: 'images/projects/6.png',
+    tecnologies: ['JAVASCRIPT', 'HTML', 'CSS'],
+    ProjectUrls: {
+      seeLive: 'https://muneef-nk.github.io/Loading-spinner/',
+      seeSource:'https://github.com/Muneef-Nk/Loading-spinner',
+    },
+  },
+  {
+    name: 'Text typing animation',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged',
+    imageUrl: 'images/projects/8.png',
+    tecnologies: ['JAVASCRIPT', 'HTML', 'CSS'],
+    ProjectUrls: {
+      seeLive: 'https://muneef-nk.github.io/Text-typing-animation/',
+      seeSource:'https://github.com/Muneef-Nk/Text-typing-animation'
+    },
+  },
+  
 
 ];
 
